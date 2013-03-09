@@ -24,3 +24,5 @@ This hub consist of the following files:
 8. _xautpy.so
 
 	xaut library for mouse automation under linux with X windows-based desktop. Tested under compiz and xfce.
+
+_
